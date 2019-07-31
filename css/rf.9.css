@@ -1,0 +1,15 @@
+  .ajuste {
+    border:none;
+    background:transparent;
+    outline:none;
+   
+  }
+
+  .icone {
+    position: relative;
+    right: 200%;
+  }
+
+  .modal {
+    display: none;
+  }
