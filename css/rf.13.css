@@ -1,3 +1,17 @@
+.botao{
+    position: relative;
+    margin-top: 35px;
+    margin-left: 5px;
+}
+.botao1{
+    position: relative;
+    margin-top: 35px;
+    margin-left: 5px;
+    left: 40%;    
+}
+
+
+
 .submit-lente {
     position:absolute;
     top:0; right:0;

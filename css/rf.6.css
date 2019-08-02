@@ -1,0 +1,54 @@
+input {
+    margin: 8px;
+}
+
+
+
+label {
+    font-weight: bolder;
+}
+
+.breadcrumb {
+    margin: 1%;
+}
+
+footer{
+    background-color: #D4D4D4;
+    width: 100%;
+    height: 62px;
+    position: relative;
+    font-family: 'Muli', sans-serif;
+    bottom: 0;
+}
+
+.submit-lente {
+    position:absolute;
+    top:0; right:0;
+    z-index:10;
+    border:none;
+    background:transparent;
+    outline:none;
+  }
+  
+  .submit-line {
+    position: relative;
+    width: 200px;
+  }
+  
+  .submit-line input {
+    width: 100%;
+  }
+
+  .ajuste {
+    border:none;
+    background:transparent;
+    outline:none;
+    position: relative;
+    right: 7px;
+    padding: 6px;
+   
+  }
+
+  #salvar {
+    float: right;
+  }
